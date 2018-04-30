@@ -1,0 +1,7 @@
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\bin\Debug\DateAndTime.exe
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\obj\Debug\DateAndTime.exe
+C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\DateAndTime\obj\Debug\DateAndTime.pdb
