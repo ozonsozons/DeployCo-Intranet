@@ -1,0 +1,27 @@
+﻿
+
+Attempting to gather dependency information for package 'OctoPack.3.6.3' with respect to project 'DateAndTime', targeting '.NETFramework,Version=v4.6.1'
+Gathering dependency information took 122.08 ms
+Attempting to resolve dependencies for package 'OctoPack.3.6.3' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'OctoPack.3.6.3'
+Resolved actions to install package 'OctoPack.3.6.3'
+Found package 'OctoPack 3.6.3' in 'C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\packages'.
+Package 'OctoPack.3.6.3' already exists in folder 'C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\packages'
+Added package 'OctoPack.3.6.3' to 'packages.config'
+Executing script file 'C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\packages\OctoPack.3.6.3\tools\Install.ps1'...
+& : File C:\ShareRW\Exercises\Getting Started with Octopus Deploy\04\demos\packages\OctoPack.3.6.3\tools\Install.ps1 
+cannot be loaded. The file C:\ShareRW\Exercises\Getting Started with Octopus 
+Deploy\04\demos\packages\OctoPack.3.6.3\tools\Install.ps1 is not digitally signed. You cannot run this script on the 
+current system. For more information about running scripts and setting execution policy, see about_Execution_Policies 
+at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:45
++ ... rgs+=$_}; & 'C:\ShareRW\Exercises\Getting Started with Octopus Deploy ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+Successfully installed 'OctoPack 3.6.3' to DateAndTime
+Executing nuget actions took 5.17 sec
+Time Elapsed: 00:00:05.6247398
+========== Finished ==========
+
