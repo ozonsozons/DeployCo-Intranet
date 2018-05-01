@@ -1,4 +1,4 @@
-﻿<p>
-    ./DateAndTime.exe</p>
-<p>
-    # just a note</p>
+﻿
+    ./DateAndTime.exe
+
+    # just a note
